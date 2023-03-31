@@ -1,6 +1,4 @@
 # CERN-OHL-TEMPLATE
-Some nifty documents
 
-# Licensing
-
-IDK what to do here, but its free to use as you please! no warranty yada yada
+Template for personal projects using the CERN-OHL-S v2 license - with a kicad wks file with the
+relevant notices attached.
